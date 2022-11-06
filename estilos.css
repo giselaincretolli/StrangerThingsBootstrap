@@ -1,0 +1,41 @@
+*{
+    background-color:black;
+    color: white;
+    text-align:center;
+}
+
+#imagen1{
+    width: 85%;
+}
+
+h1{
+    font-size: 300%;
+    font-family:'Courier New', Courier, monospace;
+}
+
+h2{
+    font-size: 250%;
+    font-family: monospace;
+    font-style: italic;
+}
+
+li{
+    text-align: left;
+    font-size: 120%;
+    margin-left: 35px;
+    line-height: 35px;
+}
+
+p{
+    font-size: 150%;
+    text-align: justify;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 35px;
+    margin-right: 35px;
+    line-height: 35px;
+}
+
+img{
+    width: 40%;
+    border-radius: 10px;
+}
